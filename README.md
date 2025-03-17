@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # MERN E-commerce Platform
 
 This project is a full-stack web application, crafted using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It aims to deliver an online environment where users can explore and purchase products. The application encompasses typical functionalities found in online sales platforms, such as item listings, search tools, user authentication, and shopping cart management.
 
 
-## Key Functinalities
+## Key Functionalities
 
 This system provides various capabilities, including user authentication and authorization to ensure secure access to the platform. Users can examine products, add items to the shopping cart, and make purchases. The application also includes an order control system, allowing users to consult their purchase history and track the progress of their orders. Additionally, an administrative panel is available for administrators to perform operations such as removing, modifying, and adding products to the inventory.
 
